@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Julian&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://qin9.github.io/"/>
+  <updated>2018-04-05T04:05:42.587Z</updated>
+  <id>https://qin9.github.io/</id>
+  
+  <author>
+    <name>Julian Qin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4</title>
+    <link href="https://qin9.github.io/2018/04/05/4/"/>
+    <id>https://qin9.github.io/2018/04/05/4/</id>
+    <published>2018-04-05T04:05:42.000Z</published>
+    <updated>2018-04-05T04:05:42.587Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>小汉化</title>
+    <link href="https://qin9.github.io/2018/04/01/%E5%B0%8F%E6%B1%89%E5%8C%96/"/>
+    <id>https://qin9.github.io/2018/04/01/小汉化/</id>
+    <published>2018-04-01T08:27:07.000Z</published>
+    <updated>2018-04-01T08:28:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>######慢慢摸索着汉化了一小波，不好玩~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;######慢慢摸索着汉化了一小波，不好玩~&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>愚人节快乐~</title>
+    <link href="https://qin9.github.io/2018/04/01/%E6%84%9A%E4%BA%BA%E8%8A%82%E5%BF%AB%E4%B9%90/"/>
+    <id>https://qin9.github.io/2018/04/01/愚人节快乐/</id>
+    <published>2018-04-01T02:49:07.000Z</published>
+    <updated>2018-04-01T02:58:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<h6 id="每年的四月一日，是西方的民间传统节日——愚人节（April-Fool’s-Day），也称万愚节。"><a href="#每年的四月一日，是西方的民间传统节日——愚人节（April-Fool’s-Day），也称万愚节。" class="headerlink" title="每年的四月一日，是西方的民间传统节日——愚人节（April Fool’s Day），也称万愚节。"></a>每年的四月一日，是西方的民间传统节日——愚人节（April Fool’s Day），也称万愚节。</h6>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h6 id=&quot;每年的四月一日，是西方的民间传统节日——愚人节（April-Fool’s-Day），也称万愚节。&quot;&gt;&lt;a href=&quot;#每年的四月一日，是西方的民间传统节日——愚人节（April-Fool’s-Day），也称万愚节。&quot; class=&quot;headerlink&quot; tit
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello~</title>
+    <link href="https://qin9.github.io/2018/01/30/Hello/"/>
+    <id>https://qin9.github.io/2018/01/30/Hello/</id>
+    <published>2018-01-30T04:47:24.000Z</published>
+    <updated>2018-01-30T05:07:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>你好，欢迎来到我的个人技术博客:)</strong></p><p>=_=</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;你好，欢迎来到我的个人技术博客:)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;=_=&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
